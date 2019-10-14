@@ -1,0 +1,4 @@
+https://en.wikipedia.org/wiki/Zachary's_karate_club
+https://networkdata.ics.uci.edu/data.php?id=109
+https://snap.stanford.edu/data/ca-AstroPh.html
+https://snap.stanford.edu/data/wiki-Vote.html

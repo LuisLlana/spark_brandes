@@ -1,0 +1,9 @@
+* Brandes clásico:
+  Inicio:  Mon Apr 10 10:31:30 2017
+  Final:  Mon Apr 10 10:31:30 2017
+  Tiempo transcurrido:  0.046027183532714844 segundos.
+
+* Brandes con PreSpark:
+  Inicio:  Mon Apr 10 10:28:50 2017
+  Final:  Mon Apr 10 10:28:50 2017
+  Tiempo transcurrido:  0.0962529182434082 segundos.
